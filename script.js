@@ -1,7 +1,1 @@
-document.getElementById('menu-toggle').addEventListener('click', function () {
-    const menu = document.getElementById('mobile-menu');
-    menu.classList.toggle('open');
-});
-window.addEventListener("scroll",function(){
-let e=document.getElementById("scrollIndicator");window.scrollY>10?e.classList.add("hide"):e.classList.remove("hide")}),
-document.getElementById("scrollIndicator").addEventListener("click",function(){window.scrollTo({top:1050,behavior:"smooth"})});
+document.getElementById("menu-toggle").addEventListener("click",function(){let e=document.getElementById("mobile-menu");e.classList.contains("open")?(e.style.maxHeight="0",e.style.opacity="0",setTimeout(()=>{e.classList.add("hidden")},400)):(e.classList.remove("hidden"),e.style.maxHeight=e.scrollHeight+"px",e.style.opacity="1"),e.classList.toggle("open")}),window.addEventListener("scroll",function(){let e=document.getElementById("scrollIndicator");window.scrollY>10?e.classList.add("hide"):e.classList.remove("hide")}),document.getElementById("scrollIndicator").addEventListener("click",function(){window.scrollTo({top:1050,behavior:"smooth"})});
