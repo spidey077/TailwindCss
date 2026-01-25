@@ -8,7 +8,7 @@ The site helped me strengthen my understanding of Tailwind utilities, flexbox, g
 
 ## Live Demo
 
-Check it out here: [https://imdadullah.netlify.app/](https://imdadullah.netlify.app/)
+Check it out here: [https://imdadullah.netlify.app/](https://imdadullah.vercel.app/)
 
 ---
 
