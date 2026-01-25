@@ -1,4 +1,4 @@
-# Practice Portfolio Website
+# Practice Website
 
 This is a personal portfolio website I built to **practice Tailwind CSS, responsive design, and front-end development concepts**. It’s designed to showcase my projects, skills, and contact links while experimenting with modern layouts, animations, and UI effects.
 
