@@ -32,7 +32,6 @@ Check it out here: [https://imdadullah.netlify.app/](https://imdadullah.vercel.a
 - **Tailwind CSS** – Layouts, utilities, responsive design  
 - **JavaScript** – Loading screen logic and menu toggle  
 - **Font Awesome** – Social icons  
-- **Bootstrap** – For testing layouts and components (optional)  
 - **Background video & gradients** – Dynamic landing experience  
 
 ---
