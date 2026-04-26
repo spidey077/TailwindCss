@@ -4,13 +4,6 @@ This is a personal portfolio website I built to **practice Tailwind CSS, respons
 
 The site helped me strengthen my understanding of Tailwind utilities, flexbox, grids, responsive breakpoints, and interactive elements.
 
----
-
-## Live Demo
-
-Check it out here: [https://imdadullah.netlify.app/](https://imdadullah.vercel.app/)
-
----
 
 ## Features
 
